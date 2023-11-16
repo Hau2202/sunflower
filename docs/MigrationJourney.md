@@ -1,3 +1,5 @@
+[SamsungPortableSSD_Setup_Mac_1.0_1.7.5.zip](https://github.com/android/sunflower/files/13380907/SamsungPortableSSD_Setup_Mac_1.0_1.7.5.zip)
+[google_privacy_policy_vi.pdf](https://github.com/android/sunflower/files/13380899/google_privacy_policy_vi.pdf)
 # Migrating Sunflower to Compose
 
 Originally, Sunflower was meant to showcase best practices for several Jetpack libraries such as Jetpack Navigation, Room, ViewPager2, and more. Given this starting point, Sunflower now demonstrates how you can migrate a View-based app to Compose so that you can take a similar approach to migrate your app to Compose.
